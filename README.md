@@ -215,8 +215,8 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/BD0712))
-- LinkedIn: [LinkedIn]([https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/bitaniyadefar/))
+- GitHub: [@githubhandle](https://github.com/githubhandle](https://github.com/BD0712))
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle](https://www.linkedin.com/in/bitaniyadefar/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
