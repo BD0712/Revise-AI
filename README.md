@@ -63,11 +63,13 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Revise AI <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+-     "Revise AI" is an innovative educational tool that leverages cutting-edge AI technology to facilitate seamless
+      lecture transcription and intelligent content revision. It empowers students and educators to effortlessly 
+      review and enhance educational materials, fostering a collaborative and efficient learning experience.
 
-**[your_project__name]** is a...
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,21 +80,21 @@ For more information on the importance of a professional README for your reposit
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://www.glideapps.com/">Glide Apps</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>API</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://openai.com/blog/openai-api">Open AI</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.google.ca/sheets/about/">Google Sheets</a></li>
   </ul>
 </details>
 
@@ -102,9 +104,12 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+-         AI-Powered Transcription: Utilize advanced AI technology to transcribe lectures and audio content
+          accurately in real-time or from pre-recorded files.
+-         Intelligent Revision Assistance: Receive comprehensive and insightful content revisions generated
+          by the AI, helping users grasp key concepts and improve study materials.
+-         Lecture Organization and Management: Organize and manage lectures efficiently with the ability to
+          categorize, search, and filter content for easy access.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
