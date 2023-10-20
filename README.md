@@ -139,11 +139,14 @@ For more information on the importance of a professional README for your reposit
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> Features that will be added to the project in the future.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] Adaptive Learning Algorithms: Incorporate adaptive learning algorithms that personalize the learning journey
+      based on individual progress, providing tailored recommendations and study materials.
+- [ ] Voice Command Functionality: Implement voice command functionality for hands-free navigation and interaction,
+      enabling users to access and control app features using voice prompts and commands.
+- [ ] Language Support Expansion: Expand language support to accommodate a diverse user base, offering multilingual
+      transcription and revision capabilities for a broader global reach.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
