@@ -89,6 +89,7 @@ For more information on the importance of a professional README for your reposit
   <summary>API</summary>
   <ul>
     <li><a href="https://openai.com/blog/openai-api">Open AI</a></li>
+    <li><a href="https://www.glideapps.com/ai">Glide AI</a></li>
   </ul>
 </details>
 
