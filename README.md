@@ -57,9 +57,9 @@ For more information on the importance of a professional README for your reposit
 # 📖 Revise AI <a name="about-project"></a>
 
 -     "Revise AI" is an innovative educational tool that leverages cutting-edge AI technology to
-      facilitate seamless lecture transcription and intelligent content revision. It empowers students
-      and educators to effortlessly review and enhance educational materials, fostering a collaborative
-      and efficient learning experience.
+      facilitate seamless lecture transcription and intelligent content revision. It empowers
+      students and educators to effortlessly review and enhance educational materials, fostering
+      a collaborative and efficient learning experience.
 
 
 
