@@ -113,7 +113,14 @@ For more information on the importance of a professional README for your reposit
 > Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
-  <img src="App screenshot.png" alt="logo" width="140"  height="auto" />
+  
+  <img src="Appscreenshot1.png" alt="logo" width="140"  height="auto" />
+  <img src="Appscreenshot2.png" alt="logo" width="140"  height="auto" />
+  <img src="Appscreenshot3.png" alt="logo" width="140"  height="auto" />
+  <img src="Appscreenshot4.png" alt="logo" width="140"  height="auto" />
+  <img src="Appscreenshot5.png" alt="logo" width="140"  height="auto" />
+  <img src="Appscreenshot6.png" alt="logo" width="140"  height="auto" />
+  <img src="Appscreenshot7.png" alt="logo" width="140"  height="auto" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
